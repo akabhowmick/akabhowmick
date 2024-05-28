@@ -16,7 +16,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 This is an e-commerce website for your Etsy business. Secure payment processing is facilitated through PayPal integration. There is also an account-making feature that allows the user to keep track of their order history and faster checkout. The business owner can also keep track of all users and see all orders made.
 - **Technologies Used:** React, React-Bootstrap, React Router Dom, MUI, UploadCloud, PayPal integration, Supabase, and Form Spark.
 
-### 3DVerse (https://github.com/akabhowmick/3dVerse); Queens Finest Prints (https://github.com/akabhowmick/QueensFinestPrints)
+### 3DVerse (https://github.com/akabhowmick/3dVerse); 
+### Queens Finest Prints (https://github.com/akabhowmick/QueensFinestPrints)
 This is an e-commerce website for your Etsy business. Secure payment processing is facilitated through PayPal integration.
 - **Technologies Used:** React, React-Bootstrap, React Router Dom, MUI, UploadCloud, PayPal integration, Supabase, and Form Spark.
 
@@ -26,11 +27,11 @@ This is a responsive website for TaekwonMaru. The website includes business info
 
 ## 📫 How to Reach Me
 - Email: [akabhowmick@gmail.com](mailto:akabhowmick@gmail.com)
-- LinkedIn: [linkedin.com/in/akash-bhowmick-web-dev/](https://www.linkedin.com/in/akash-bhowmick-web-dev/)]
+- LinkedIn: [linkedin.com/in/akash-bhowmick-web-dev/](https://www.linkedin.com/in/akash-bhowmick-web-dev/)
 - Personal Website: https://akashbhowmick.com/ 
 
 ## 🌱 Personal Interests
-When I'm not coding, I love spending time outdoors, hiking, and exploring new places. I'm also an avid reader and enjoy learning about new technologies and software development practices.
+When I'm not coding, I love spending time teaching taekwondo and with my family, especially my two dogs. I'm also an avid reader and enjoy reading countless Medium articles on the dos and don'ts of software development practices.
 
 ## 🤝 Let's Connect
 Feel free to reach out if you're interested in collaborating on projects or just want to connect. I'm always open to discussing new ideas and opportunities!
