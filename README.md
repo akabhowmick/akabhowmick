@@ -14,8 +14,7 @@ Feel free to reach out if you're interested in collaborating on projects or just
 ## 🌱 Personal Interests
 When I'm not coding, I love spending time teaching taekwondo and with my family, especially my two dogs. I'm also an avid reader and enjoy reading countless Medium articles on the dos and don'ts of software development practices.
 
-
-[![My Skills](https://skillicons.dev/icons?i=js, mongodb,nodejs,react,express,html,css,react,cpp,java,python )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,react,express,ts,supabase,js,cpp,java )](https://skillicons.dev)
 
 
 
