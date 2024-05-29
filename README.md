@@ -15,4 +15,7 @@ Feel free to reach out if you're interested in collaborating on projects or just
 When I'm not coding, I love spending time teaching taekwondo and with my family, especially my two dogs. I'm also an avid reader and enjoy reading countless Medium articles on the dos and don'ts of software development practices.
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 
