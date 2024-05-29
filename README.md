@@ -7,6 +7,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 - Email: [akabhowmick@gmail.com](mailto:akabhowmick@gmail.com)
 - LinkedIn: [linkedin.com/in/akash-bhowmick-web-dev/](https://www.linkedin.com/in/akash-bhowmick-web-dev/)
 - Personal Website: https://akashbhowmick.com/
+
+  
 Feel free to reach out if you're interested in collaborating on projects or just want to connect. I'm always open to discussing new ideas and opportunities!
 
 ## 🌱 Personal Interests
