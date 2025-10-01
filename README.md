@@ -1,7 +1,7 @@
 # Hi there, I'm Akash Bhowmick 👋
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I love building web applications that solve real-world problems and enhance user experiences.
+I'm a passionate Full Stack Developer specializing in React, Typescript, TailwindCSS, and Supabase stack. I love building web applications that solve real-world problems and enhance user experiences.
 
 ## 📫 How to Reach Me
 - Email: [akabhowmick@gmail.com](mailto:akabhowmick@gmail.com)
