@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer specializing in React, Typescript, Tailwin
 - Personal Website: https://akashbhowmick.com/
 
   
-Feel free to reach out if you're interested in collaborating on projects or just want to connect. I'm always open to discussing new ideas and opportunities!
+Feel free to reach out if you're interested in collaborating on projects or want to connect. I'm always open to discussing new ideas and opportunities!
 
 ## 🌱 Personal Interests
 When I'm not coding, I love spending time teaching taekwondo and with my family, especially my two dogs. I'm also an avid reader and enjoy reading countless Medium articles on the dos and don'ts of software development practices.
