@@ -17,7 +17,7 @@ When I'm not coding, I love spending time teaching taekwondo and with my family,
 ## 💻 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts, supabase, express, js,cpp, java,mongodb,nodejs, css, tailwind django, netlify, vercel, prisma, py, arduino,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,ts,supabase, express,js,cpp,java,mongodb,nodejs, css, tailwind django, netlify, vercel,prisma,py,arduino&perline=5" />
   </a>
 </p>
 
