@@ -15,10 +15,9 @@ Feel free to reach out if you're interested in collaborating on projects or want
 When I'm not coding, I love spending time teaching taekwondo and with my family, especially my two dogs. I'm also an avid reader and enjoy reading countless Medium articles on the dos and don'ts of software development practices.
 
 ## 💻 My Skills
-[![My Skills]
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,ts,supabase,js,cpp,java,mongodb,nodejs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,ts, supabase, express, js,cpp, java,mongodb,nodejs, css, tailwind django, netlify, vercel, prisma, py, arduino,&perline=5" />
   </a>
 </p>
 
